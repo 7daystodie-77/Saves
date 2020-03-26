@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <persistentplayerdata>
-	<player id="76561198238691876" lastlogin="2020-03-25 23:07:22">
+	<player id="76561198238691876" lastlogin="2020-03-26 01:47:05">
 		<acl id="76561198159538239"/>
 		<bedroll pos="215,86,386"/>
 	</player>
-	<player id="76561198159538239" lastlogin="2020-03-25 23:07:22">
+	<player id="76561198159538239" lastlogin="2020-03-26 01:49:53">
 		<acl id="76561198238691876"/>
 	</player>
-	<player id="76561198339562747" lastlogin="2020-03-25 02:10:31"/>
+	<player id="76561198339562747" lastlogin="2020-03-26 01:46:15">
+		<bedroll pos="213,86,386"/>
+	</player>
 </persistentplayerdata>
